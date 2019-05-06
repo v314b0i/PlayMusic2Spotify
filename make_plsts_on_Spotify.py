@@ -15,9 +15,9 @@ import csv
 
 #print("non-Ascii charecter support check (utf-8 encoding) --- гелик")
 
-user='31og2zbmvpbvzge26z36ctv2bqz4'
-cliId='52fae4c7265a4f0fbfaf15291107c982'
-cliSc='28281faedc0249d2a90123502be951be'
+user='xxxx'
+cliId='xxxx' # CREATE AN APP ON SPOTIFY FOR DEVs AND ADD YOUR USERNAME, API ID AND KEY HERE
+cliSc='xxxx'
 
 
 def authenticate():
